@@ -18,4 +18,5 @@ This is a Quiz application, created using HTML, CSS and JavaScript only.
 
 ### All the questions are MCQ type along with four options each and based on basics of front-end development. 
 
+
 Please have a look: https://madhumanti-gh.github.io/myquizapp.github.io/ 
