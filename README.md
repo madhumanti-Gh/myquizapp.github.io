@@ -3,7 +3,7 @@ This is a Quiz application, created using HTML, CSS and JavaScript only.
 
 ## Instructions
 #### Inside the welcome-page, there are two buttons.
-- Press **Play** button to take the quiz or encountering the questions.
+- Press **Play** button to take the quiz.
 - Press **High Score** button to check the top 5 high scores till now.
 
 #### By pressing the **Play** button one can start encountering the questions one by one.
